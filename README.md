@@ -9,4 +9,8 @@ this will be two arrays
 i will loop through these arrays at random to get a card 
 *  i will make two players 
 these players will take turns till someone hits 21 or doesn't want another card 
+
 * the dealer also doesn't hit at 17
+## Acknowledgments
+** Youtube (Cody the Coder) helped me alot.
+
